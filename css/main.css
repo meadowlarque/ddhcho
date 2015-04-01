@@ -12,19 +12,16 @@ body {
     padding-left:20px;
 }
 h1.title {
-    padding-top:-2em;
     margin-bottom:0;
 }
 h1.digital {
     text-shadow: 1px 1px #F7931;
 }
 h2.title {
-    padding-top:20px;
     display:inline-block;
     margin-bottom:0;
 }
 h3.title {
-    padding-top:-10px;
     display:inline-block;
     letter-spacing:1.5em;
     margin-bottom:0;
