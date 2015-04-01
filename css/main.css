@@ -29,7 +29,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
-    color:#F7931;
+    color:#F7931E;
 } 
 h1 {
     font-size: 3em;
@@ -67,6 +67,6 @@ ul.links {
     line-height: 1.4em;}
 
 ul.links a li {list-style:none;}
-.orange {color:#F7931;}
+.orange {color:#F7931E;}
 .lgtblue {color:#B3C9FF;}
 .dkblue {color:#242D36;}
