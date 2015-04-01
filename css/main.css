@@ -10,21 +10,20 @@ body {
 .title {
     text-transform: uppercase;
     padding-left:20px;
+    margin-top:0;
+    margin-bottom:0;
 }
 h1.title {
-    margin-bottom:0;
 }
 h1.digital {
     text-shadow: 1px 1px #F7931;
 }
 h2.title {
     display:inline-block;
-    margin-bottom:0;
 }
 h3.title {
     display:inline-block;
     letter-spacing:1.5em;
-    margin-bottom:0;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
