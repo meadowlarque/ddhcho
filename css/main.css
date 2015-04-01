@@ -10,7 +10,8 @@ body {
 .banner img {
     max-width:100%;
     height:auto;
-    margin: 0 auto 0 auto;
+    left:50%;
+    margin:0 0 0 -50%;
 }
 
 nav ul, footer ul {
