@@ -7,6 +7,20 @@ body {
     background:#242D36;
     color:#B3C9FF;
 }
+.title {
+    text-transform: uppercase;
+    padding-right:20px;
+}
+h1.title {
+    padding-top:-1em;
+}
+h2.title {
+    padding-top:20px;
+}
+h3.title {
+    padding-top:-1em;
+    letter-spacing:1.5em;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
