@@ -2,6 +2,11 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+.banner {
+    width:100%;
+    background:#242D36;
+    color:#fff;
+}
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
@@ -19,8 +24,12 @@ a {
 a:hover {
     text-decoration: underline;
 } 
-h2 {
+h1 {
     font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+h2 {
+    font-size: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 p {
