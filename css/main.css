@@ -5,7 +5,7 @@ body {
 .banner {
     width:100%;
     background:#242D36;
-    color:#fff;
+    color:#B3C9FF;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -57,4 +57,5 @@ ul.links {
 
 ul.links a li {list-style:none;}
 .orange {color:#F7931;}
-.blue {color:#B3C9FF;}
+.lgtblue {color:#B3C9FF;}
+.dkblue {color:#242D36;}
