@@ -13,16 +13,21 @@ body {
 }
 h1.title {
     padding-top:-2em;
-    display:inline-block;
+    margin-bottom:0;
+}
+h1.digital {
+    text-shadow: 2px 2px ##F7931;
 }
 h2.title {
     padding-top:20px;
     display:inline-block;
+    margin-bottom:0
 }
 h3.title {
     padding-top:-10px;
     display:inline-block;
     letter-spacing:1.5em;
+    margin-bottom:0
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
